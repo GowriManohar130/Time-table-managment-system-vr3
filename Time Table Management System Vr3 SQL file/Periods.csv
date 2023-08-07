@@ -1,0 +1,9 @@
+periodId,periodName,periodFrom,periodTo
+501,period1,9:00 AM,9:50 AM
+502,period2,9:50 AM,10:40 AM
+503,period3,10:40 AM,11:30 AM
+504,period4,11:30 AM,12:20 PM
+505,period5,12:20 PM,1:30 PM
+506,period6,1:30 PM,2:20 PM
+507,period7,2:20 PM,3:10 PM
+508,period8,3:10 PM,4:00 PM

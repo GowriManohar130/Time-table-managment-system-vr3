@@ -1,0 +1,6 @@
+deptid,deptname,noOfCourses,collegeId
+101,MECH,2,1001
+102,ECE,2,1001
+103,EEE,2,1001
+104,CSE,2,1001
+105,CIVIL,2,1001
