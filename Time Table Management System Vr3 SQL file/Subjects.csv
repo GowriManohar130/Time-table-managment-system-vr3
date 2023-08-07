@@ -1,0 +1,261 @@
+subjectsid,subjectsName,semesterid,CourseId,NoOfPeriodsPerSemester
+1,Engineering Mechanics,1,10,120
+2,Mathematics-I,1,10,120
+3,Physics-I,1,10,120
+4,Chemistry,1,10,120
+5,ComPuter Programming,1,10,120
+6,Engineering Drawing (Lab),1,10,120
+7,ComPuter Programming (Lab),1,10,120
+8,Thermodynamics,2,10,120
+9,Mathematics-II,2,10,120
+10,Physics-II,2,10,120
+11,Material Science,2,10,120
+12,Electrical Circuits,2,10,120
+13,Material Science (Lab),2,10,120
+14,Electrical Circuits (Lab),2,10,120
+15,Fluid Mechanics,3,10,120
+16,Engineering Mathematics-III,3,10,120
+17,Mechanics of Solids,3,10,120
+18,Manufacturing Processes-I,3,10,120
+19,Kinematics of Machinery,3,10,120
+20,Fluid Mechanics (Lab),3,10,120
+21,Mechanics of Solids (Lab),3,10,120
+22,Machine Design-I,4,10,120
+23,Manufacturing Processes-II,4,10,120
+24,Theory of Machines-I,4,10,120
+25,Numerical Methods,4,10,120
+26,Control Engineering-I,4,10,120
+27,Machine Design-I (Lab),4,10,120
+28,Control Engineering-I (Lab),4,10,120
+29,Machine Design-II,5,10,120
+30,Thermal Engineering-I,5,10,120
+31,Heat Transfer,5,10,120
+32,Manufacturing Processes-III,5,10,120
+33,CAD/CAM,5,10,120
+34,Heat Transfer (Lab),5,10,120
+35,CAD/CAM (Lab),5,10,120
+36,Thermal Engineering-II,6,10,120
+37,Refrigeration and Air Conditioning,6,10,120
+38,Power Plant Engineering,6,10,120
+39,Dynamics of Machinery,6,10,120
+40,Finite Element Analysis,6,10,120
+41,Power Plant Engineering (Lab),6,10,120
+42,Finite Element Analysis (Lab),6,10,120
+43,Robotics and Automation,7,10,120
+44,Energy Management,7,10,120
+45,Mechatronics,7,10,120
+46,Automotive Engineering,7,10,120
+47,Elective-I,7,10,120
+48,Mechatronics (Lab),7,10,120
+49,Automotive Engineering (Lab),7,10,120
+52,Project Work,8,10,120
+53,Advanced Heat Transfer,1,11,120
+54,Thermodynamics of Fluid Flow,1,11,120
+55,ComPutational Fluid Dynamics,1,11,120
+56,Advanced Thermodynamics,1,11,120
+57,Mathematical Methods in Thermal Engg.,1,11,120
+58,ExPerimental Techniques in Heat Transfer,2,11,120
+59,Conduction Heat Transfer,2,11,120
+60,Radiation Heat Transfer,2,11,120
+61,Heat Exchangers,2,11,120
+62,Thermal System Design,2,11,120
+63,Combustion and Emission Control,3,11,120
+64,Power Plant Engineering,3,11,120
+65,Refrigeration and Air Conditioning,3,11,120
+66,Dissertation (Thesis),4,11,120
+67,Engineering Mathematics-I,1,12,120
+68,Physics,1,12,120
+69,Introduction to Electronics Engineering,1,12,120
+70,ComPuter Programming,1,12,120
+71,Engineering GraPhics (Lab),1,12,120
+72,Electronics WorkshoP (Lab),1,12,120
+73,ComPuter Programming (Lab),1,12,120
+74,Engineering Mathematics-II,2,12,120
+75,Circuit Theory,2,12,120
+76,Electronic Devices and Circuits,2,12,120
+77,Electromagnetic Theory,2,12,120
+78,Network Analysis,2,12,120
+79,Electronic Devices and Circuits (Lab),2,12,120
+80,Network Analysis (Lab),2,12,120
+81,Signals and Systems,3,12,120
+82,Digital Electronics,3,12,120
+83,Analog Electronics,3,12,120
+84,Electromagnetic Waves and Transmission Lines,3,12,120
+85,Digital Signal Processing,3,12,120
+86,Analog Electronics (Lab),3,12,120
+87,Digital Electronics (Lab),3,12,120
+88,MicroProcessors and Microcontrollers,4,12,120
+89,Communication Systems,4,12,120
+90,Control Systems,4,12,120
+91,Antenna Theory and Design,4,12,120
+92,Power Electronics,4,12,120
+93,MicroProcessors and Microcontrollers (Lab),4,12,120
+94,Communication Systems (Lab),4,12,120
+95,VLSI Design,5,12,120
+96,Digital Communication,5,12,120
+97,Microwave Engineering,5,12,120
+98,Embedded Systems,5,12,120
+99,Control System Design,5,12,120
+100,VLSI Design (Lab),5,12,120
+101,Microwave Engineering (Lab),5,12,120
+102,Digital System Design using HDL,6,12,120
+103,RF and Microwave Circuits,6,12,120
+104,Data Communication Networks,6,12,120
+105,OPtical Communication Systems,6,12,120
+106,Digital Image Processing,6,12,120
+107,Digital System Design using HDL (Lab),6,12,120
+108,RF and Microwave Circuits (Lab),6,12,120
+109,Wireless Communication,7,12,120
+110,Network Security,7,12,120
+111,Satellite Communication,7,12,120
+112,Digital Signal Processing APPlications,7,12,120
+113,Biomedical Signal Processing,7,12,120
+114,Wireless Communication (Lab),7,12,120
+115,Network Security (Lab),7,12,120
+116,Project Work,8,12,120
+117,Digital Signal Processing,1,13,120
+118,Random Processes and Estimation Theory,1,13,120
+119,Advanced Communication Systems,1,13,120
+120,Statistical Signal Processing,1,13,120
+121,Signal Processing Lab,1,13,120
+122,Digital Image Processing,2,13,120
+123,Pattern Recognition,2,13,120
+124,SPeech Processing,2,13,120
+125,Information Theory and Coding,2,13,120
+126,Digital Image Processing Lab,2,13,120
+127,AdaPtive Signal Processing,3,13,120
+128,Wireless Communication Systems,3,13,120
+129,Array Signal Processing,3,13,120
+130,Dissertation (Thesis),4,13,120
+131,Engineering Mathematics-I,1,14,120
+132,Physics,1,14,120
+133,Introduction to Electrical Engg.,1,14,120
+134,ComPuter Programming,1,14,120
+135,Engineering GraPhics (Lab),1,14,120
+136,Basic Electrical Engineering (Lab),1,14,120
+137,ComPuter Programming (Lab),1,14,120
+138,Engineering Mathematics-II,2,14,120
+139,Circuit Theory,2,14,120
+140,Electronic Devices and Circuits,2,14,120
+141,Electromagnetic Theory,2,14,120
+142,Network Analysis,2,14,120
+143,Electronic Devices and Circuits (Lab),2,14,120
+144,Network Analysis (Lab),2,14,120
+145,Signals and Systems,3,14,120
+146,Digital Electronics,3,14,120
+147,Electrical Measurements and Instrumentation,3,14,120
+148,Electromagnetic Waves and Transmission Lines,3,14,120
+149,Digital Signal Processing,3,14,120
+150,Digital Electronics (Lab),3,14,120
+151,Electrical Measurements and Instrumentation (Lab),3,14,120
+152,MicroProcessors and Microcontrollers,4,14,120
+153,Control Systems,4,14,120
+154,Power Electronics,4,14,120
+155,Electrical Machines,4,14,120
+156,Power System Analysis,4,14,120
+157,MicroProcessors and Microcontrollers (Lab),4,14,120
+158,Control Systems (Lab),4,14,120
+159,Power System Protection,5,14,120
+160,Electrical Power Utilization,5,14,120
+161,High Voltage Engineering,5,14,120
+162,Power System OPeration and Control,5,14,120
+163,Utilization of Electrical Energy,5,14,120
+164,Power System Protection (Lab),5,14,120
+165,High Voltage Engineering (Lab),5,14,120
+166,Electrical Machine Design,6,14,120
+167,Renewable Energy Sources,6,14,120
+168,Electrical Distribution Systems,6,14,120
+169,Electrical Measurements and Control,6,14,120
+170,Digital Control Systems,6,14,120
+171,Electrical Machine Design (Lab),6,14,120
+172,Digital Control Systems (Lab),6,14,120
+173,Power Electronics and Drives,7,14,120
+174,Instrumentation and Control Systems,7,14,120
+175,Energy Management,7,14,120
+176,Embedded Systems,7,14,120
+177,Control System Design,7,14,120
+178,Power Electronics and Drives (Lab),7,14,120
+179,Instrumentation and Control Systems (Lab),7,14,120
+180,Project Work,8,14,120
+181,Advanced Power Systems Analysis,1,15,120
+182,Power System Stability and Control,1,15,120
+183,Advanced Power Electronics,1,15,120
+184,Power Quality and FACTS,1,15,120
+185,Power Systems Lab,1,15,120
+186,Renewable Energy Systems,2,15,120
+187,High Voltage Engineering,2,15,120
+188,Power System Protection,2,15,120
+189,Power System OPeration and Control,2,15,120
+190,Renewable Energy Systems Lab,2,15,120
+191,Power System OPtimization and Planning,3,15,120
+192,Smart Grids and Microgrids,3,15,120
+193,Power Electronics and Drives,3,15,120
+194,Power System Dynamics and Stability,3,15,120
+195,Power Electronics and Drives Lab,3,15,120
+196,Dissertation (Thesis),4,15,120
+197,Engineering Mathematics-I,1,16,120
+198,Physics,1,16,120
+199,Introduction to ComPuter Science,1,16,120
+200,Digital Logic and Design,1,16,120
+201,Engineering GraPhics (Lab),1,16,120
+202,Programming Lab (C),1,16,120
+203,Digital Logic and Design Lab,1,16,120
+204,Engineering Mathematics-II,2,16,120
+205,Data Structures and Algorithms,2,16,120
+206,Object-Oriented Programming,2,16,120
+207,ComPuter Organization and Architecture,2,16,120
+208,Discrete Mathematics,2,16,120
+209,Data Structures and Algorithms Lab,2,16,120
+210,Object-Oriented Programming Lab,2,16,120
+211,Database Management Systems,3,16,120
+212,OPerating Systems,3,16,120
+213,ComPuter Networks,3,16,120
+214,Theory of ComPutation,3,16,120
+215,MicroProcessors and Microcontrollers,3,16,120
+216,Database Management Systems Lab,3,16,120
+217,OPerating Systems Lab,3,16,120
+218,Software Engineering,4,16,120
+219,ComPiler Design,4,16,120
+220,Artificial Intelligence,4,16,120
+221,Web Technologies,4,16,120
+222,Numerical Methods,4,16,120
+223,Software Engineering Lab,4,16,120
+224,Artificial Intelligence Lab,4,16,120
+225,Cloud ComPuting,5,16,120
+226,Big Data Analytics,5,16,120
+227,Mobile APPlication DeveloPment,5,16,120
+228,Cybersecurity,5,16,120
+229,Internet of Things (IoT),5,16,120
+230,Cloud ComPuting Lab,5,16,120
+231,Mobile APPlication DeveloPment Lab,5,16,120
+232,Machine Learning,6,16,120
+233,Distributed Systems,6,16,120
+234,Natural Language Processing,6,16,120
+235,Software Testing and Quality Assurance,6,16,120
+236,Robotics and Automation,6,16,120
+237,Machine Learning Lab,6,16,120
+238,Robotics and Automation Lab,6,16,120
+239,Data Science,7,16,120
+240,Blockchain Technology,7,16,120
+241,Advanced ComPuter Networks,7,16,120
+242,Image Processing and ComPuter Vision,7,16,120
+243,Software Project Management,7,16,120
+244,Data Science Lab,7,16,120
+245,Blockchain Technology Lab,7,16,120
+246,Project Work,8,16,120
+247,Foundations of Cyber Security,1,17,120
+248,Network Security,1,17,120
+249,CryPtograPhy and Data Security,1,17,120
+250,Cyber Threat Intelligence,1,17,120
+251,Cyber Security Lab,1,17,120
+252,Web APPlication Security,2,17,120
+253,Secure Coding and Ethical Hacking,2,17,120
+254,Intrusion Detection and Prevention,2,17,120
+255,Cloud Security,2,17,120
+256,Web APPlication Security Lab,2,17,120
+257,Cyber Forensics,3,17,120
+258,Mobile Security,3,17,120
+259,Wireless and IoT Security,3,17,120
+260,Malware Analysis and Reverse Engineering,3,17,120
+261,Cyber Forensics Lab,3,17,120
+262,Dissertation (Thesis),4,17,120
