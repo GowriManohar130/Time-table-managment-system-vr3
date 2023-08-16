@@ -1,0 +1,58 @@
+<!Doctype>
+<html>
+<head>
+<title>Timetable Managment System Subject Details</title>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+input, button, select{height:30px;font-size:25px}
+a{text-decoration:none}
+</style>
+<script>
+        function addCollege() {
+            var j = document.getElementById('buu');
+            var newCollege = document.createElement('div');
+            newCollege.innerHTML = '<label>Subject</label>&nbsp;&nbsp;<input type="text">&nbsp;&nbsp;&nbsp;<i class="fa fa-trash" onclick="deleteCollege(this)" style="font-size:30px;color:rgb(22, 19, 19)"></i><br/>';
+            j.appendChild(newCollege);
+        }
+
+        function deleteCollege(button) {
+            var collegeDiv = button.parentNode;
+            var j = document.getElementById('buu');
+            j.removeChild(collegeDiv);
+        }
+    </script>
+</head>
+<body background="light.jpg">
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<div style="width:100%;text-align:center">
+<form align="center" style="font-size:30px">
+<lable for="dept">Department Name:-</lable>
+<select id="dept">
+  <option value="Mechanical">Mechanical</option>
+  <option value="Computer Science">Computer Science</option>
+  <option value="Civil">Civil</option>
+  <option value="Electrical and Electronics">Electrical and Electronics</option>
+</select><br/><br/>
+<lable for="cour">Course Name:-</lable>
+<select id="cour">
+  <option value="Btech">BTech</option>
+  <option value="MTech">Mtech</option>
+</select><br/><br/>
+<lable for="sem">Semester Name:-</lable>
+<select id="sem">
+  <option value="Semester 1">Semester 1</option>
+  <option value="Semester 2">Semester 2</option>
+  <option value="Semester 3">Semester 3</option>
+  <option value="Semester 4">Semester 4</option>
+  <option value="Semester 5">Semester 5</option>
+  <option value="Semester 6">Semester 6</option>
+  <option value="Semester 7">Semester 7</option>
+</select><br/><br/>
+<label>Subject</label>&nbsp;&nbsp;<input type="text">&nbsp;&nbsp;&nbsp;<i class="fa fa-plus" onclick="addCollege()" style="font-size:30px;color:rgb(39, 18, 228)"></i><br/>
+ <div id="buu"></div><br/>
+<button><a target="_self" href="">Submit</a></button>
+<button><a target="_self" href="subjects.html">Cancel</a></button>
+</form>
+</div>
+</body>
+</html>

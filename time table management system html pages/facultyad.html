@@ -1,0 +1,42 @@
+<!Doctype>
+<html>
+<head>
+<title>Timetable Managment System Course Details Edit/Delete</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.a1 {border-top:none;border-left:none;border-right:none}
+input, button, select{height:30px;font-size:25px}
+a{text-decoration:none}
+</style>
+<script>
+        function addCollege() {
+            var j = document.getElementById('buu');
+            var newCollege = document.createElement('div');
+            newCollege.innerHTML = '<label>Faculty:-</label>&nbsp;&nbsp;<input type="text" placeholder="Enter Faculty Name">&nbsp;&nbsp;&nbsp;<i class="fa fa-trash" onclick="deleteCollege(this)" style="font-size:30px;color:rgb(22, 19, 19)"></i><br/>';
+            j.appendChild(newCollege);
+        }
+
+        function deleteCollege(button) {
+            var collegeDiv = button.parentNode;
+            var j = document.getElementById('buu');
+            j.removeChild(collegeDiv);
+        }
+    </script>
+</head>
+<body background="light.jpg">
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<form align="center" style="font-size:30px">
+<lable for="dept">Department Name:-</lable>
+<select id="dept">
+  <option value="Mechanical">Mechanical</option>
+  <option value="Computer Science">Computer Science</option>
+  <option value="Civil">Civil</option>
+  <option value="Electrical and Electronics">Electrical and Electronics</option>
+</select><br/><br/>
+<label>Faculty:-</label>&nbsp;&nbsp;<input type="text" placeholder="Enter Faculty Name">&nbsp;&nbsp;&nbsp;<i class="fa fa-plus" onclick="addCollege()" style="font-size:30px;color:rgb(39, 18, 228)"></i><br/>
+ <div id="buu"></div><br/>
+<button><a target="_self" href="">Submit</a></button>
+<button><a target="_self" href="faculty.html">Cancel</a></button>
+</form>
+</body>
+</html>
